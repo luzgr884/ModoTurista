@@ -1,0 +1,13 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar{
+  min-height: 90px;
+  background-color: gray;
+}
+
+.container:hover .item{
+  transform: scale(1.5);
+}
